@@ -2,7 +2,7 @@
 ## (Adjusted one-way nesting technique for coastal estuarine modeling in the ADCIRC model)
 
 <p align="center">
-  <img src="Multi-stage/Graphic.png">
+  <img src="https://raw.githubusercontent.com/ptaeb2014/Multi-stage/master/Graphic.png">
 </p>
 
 Multi-stage tool is compiled from developed and existing software components for automating nesting technique in the ADvanced CIRCulation (ADCIRC) model system for high resolution coastal estuarine modeling applications. The tool is developed with the aim of reducing expensive computational cost associated with high resolution modeling using the ADCIR model. The application of the Multi-stage can be more beneficial when the ADCIRC model is coupled to Simulating WAves Nearshore (SWAN) model, or/and domain spin-up run is required for more than couple of days.
